@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+## Testing VSCode and commits
 
 You can use the [editor on GitHub](https://github.com/SirTedmondson/SirTedmondson.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
